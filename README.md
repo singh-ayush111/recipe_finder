@@ -35,17 +35,17 @@ A full-stack web application that allows users to search for recipes based on in
 --------------------
 
    recipe-finder/  
-   ├── client/              # Frontend Code  
-   │   ├── index.html       # Main UI  
-   │   ├── styles.css       # Styling  
-   │   └── script.js        # Logic (API calls, DOM manipulation)  
-   ├── server/              # Backend Code  
-   │   ├── models/          # Database Schemas (User.js)  
-   │   ├── routes/          # API Endpoints (auth.js, recipes.js)  
-   │   ├── middleware/      # Auth verification (auth.js)  
-   │   ├── server.js        # Entry point  
-   │   └── .env             # Environment variables (Ignored by Git)  
-   └── README.md            # Project Documentation   
+   ├── client/ .............# Frontend Code  
+   │   ├── index.html ......# Main UI  
+   │   ├── styles.css ......# Styling  
+   │   └── script.js .......# Logic (API calls, DOM manipulation)  
+   ├── server/ .............# Backend Code  
+   │   ├── models/ .........# Database Schemas (User.js)  
+   │   ├── routes/ .........# API Endpoints (auth.js, recipes.js)  
+   │   ├── middleware/ .....# Auth verification (auth.js)  
+   │   ├── server.js .......# Entry point  
+   │   └── .env ............# Environment variables (Ignored by Git)  
+   └── README.md ...........# Project Documentation   
 
 ⚙️ Installation & Setup
 -----------------------
