@@ -84,16 +84,16 @@ Follow these steps to run the project locally.
 
 ### **Authentication**
 
-**Method         Endpoint                               Description**
-POST             /api/auth/register                     Register a new user
-POST             /api/auth/login                        Login and receive a JWT
+**Method...........Endpoint..............................Description**
+POST              /api/auth/register                     Register a new user
+POST              /api/auth/login                        Login and receive a JWT
 
 ### **Recipes**
 
-**Method         Endpoint                               Description**
-GET              /api/recipes/search?type=x&term=y      Search by ingredient, category, or area
-GET              /api/recipes/:id                       Get full details for a specific recipe
-GET              /api/recipes/favorites                 Get logged-in user's saved recipes
-POST             /api/recipes/favorites                 Add a recipe to favorites
-DELETE           /api/recipes/favorites/:id             Remove a recipe from favorites
+**Method..........Endpoint...............................Description**
+GET               /api/recipes/search?type=x&term=y      Search by ingredient, category, or area
+GET               /api/recipes/:id                       Get full details for a specific recipe
+GET               /api/recipes/favorites                 Get logged-in user's saved recipes
+POST              /api/recipes/favorites                 Add a recipe to favorites
+DELETE            /api/recipes/favorites/:id             Remove a recipe from favorites
 
