@@ -34,7 +34,7 @@ A full-stack web application that allows users to search for recipes based on in
 📂 Project Structure
 --------------------
 
-`   recipe-finder/  
+   recipe-finder/  
    ├── client/              # Frontend Code  
    │   ├── index.html       # Main UI  
    │   ├── styles.css       # Styling  
@@ -45,7 +45,7 @@ A full-stack web application that allows users to search for recipes based on in
    │   ├── middleware/      # Auth verification (auth.js)  
    │   ├── server.js        # Entry point  
    │   └── .env             # Environment variables (Ignored by Git)  
-   └── README.md            # Project Documentation   `
+   └── README.md            # Project Documentation   
 
 ⚙️ Installation & Setup
 -----------------------
